@@ -10,4 +10,4 @@ My name is Bryan and enjoy many different thing
 ## skills
 - coding/programming
 - chess
--troll friend  
+- troll friend  
