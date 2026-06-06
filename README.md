@@ -1,3 +1,13 @@
-# brytheguy245.github.io# brytheguy245.github.io
+## About me
+My name is Bryan and enjoy many different thing
 
-follow for updates
+## Hobby
+- Piano
+- Violine
+- Badminton
+- Basketball
+  
+## skills
+- coding/programming
+- chess
+-troll friend  
