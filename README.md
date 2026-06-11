@@ -10,4 +10,6 @@ My name is Bryan and enjoy many different thing
 ## skills
 - coding/programming [My web programming](https://brytheguy245.github.io/learn-web/)
 - chess
-- troll friend  
+- swimming
+- draw
+
